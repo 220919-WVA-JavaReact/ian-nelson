@@ -1,0 +1,10 @@
+ul.a {
+    background: rgb(150, 224, 229);
+    color: rgb(110, 7, 136);
+    width: 500px;
+    border: 1px solid black;
+}
+
+#container{
+    display: flex;
+}
